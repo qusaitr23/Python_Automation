@@ -1,0 +1,14 @@
+1. 
+
+from random import shuffle
+color = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+shuffle(color)
+print(color)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+
+2.
+aList = [100, 200, 300, 400, 500]
+aList = aList[::-1]
+print(aList)

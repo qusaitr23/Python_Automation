@@ -1,0 +1,21 @@
+Solution 1:
+str1 = 'atidcollege'
+# str1 = 'at'
+# str1 = 'a'
+
+if len(str1) < 2:
+  return ''
+
+print(str1[0:2] + str1[-2:])
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Solution 2:
+
+Demo String 2
+Demo String 4
+Demo String 6
+Demo String 8
+Demo String 9
+Demo String 11

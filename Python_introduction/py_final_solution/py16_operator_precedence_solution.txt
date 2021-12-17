@@ -1,0 +1,4 @@
+The value of (w+x)* y/z is 4.0
+The value of ((w+x)*x)/z is 2.0
+The value of ((w+x)*(y/z))**z is 64.0
+The value of w+(x*y)/z is 3.6666666666666665
